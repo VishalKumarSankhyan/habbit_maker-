@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/habbit_maker-/static/css/main.446e9bfa.css",
+    "main.js": "/habbit_maker-/static/js/main.ef39a77a.js",
+    "static/js/787.30237536.chunk.js": "/habbit_maker-/static/js/787.30237536.chunk.js",
+    "index.html": "/habbit_maker-/index.html",
+    "main.446e9bfa.css.map": "/habbit_maker-/static/css/main.446e9bfa.css.map",
+    "main.ef39a77a.js.map": "/habbit_maker-/static/js/main.ef39a77a.js.map",
+    "787.30237536.chunk.js.map": "/habbit_maker-/static/js/787.30237536.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.446e9bfa.css",
+    "static/js/main.ef39a77a.js"
+  ]
+}
